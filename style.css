@@ -1,0 +1,14 @@
+*{
+    margin: 1;
+    padding: 1;
+}
+button{
+    color: white;
+}
+#sam{
+    color: red;
+}
+.d-xl-inline-flex{
+    background-color: aquamarine;
+
+}
